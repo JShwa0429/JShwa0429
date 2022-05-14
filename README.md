@@ -1,6 +1,16 @@
-### Hi there 👋
+<h2>My tech stack 📚</h2>
 
-<!--
+![HTML5](https://user-images.githubusercontent.com/52859626/168450182-aaa5056b-426e-478f-9ab6-cd893257c861.svg)
+![CSS](https://user-images.githubusercontent.com/52859626/168450186-70cb7bcb-ecd1-4718-9cbf-b296a90fdfbe.svg)
+![javascript](https://user-images.githubusercontent.com/52859626/168450188-23648fa7-6a5c-4549-821e-e7f95273fb5a.svg)
+![TYPESCRIPT](https://user-images.githubusercontent.com/52859626/168450253-48cdcb78-e15a-4718-9ddf-5b4db632e31a.svg)
+![NODEJS](https://user-images.githubusercontent.com/52859626/168450255-799f735d-f8b6-4e1d-8102-115ba760b6b3.svg)
+![GIT](https://user-images.githubusercontent.com/52859626/168450256-e60338de-bd1d-45c0-98fa-2f42f7eaae0d.svg)
+![PYTHON](https://user-images.githubusercontent.com/52859626/168450274-9d6d43b0-6072-4195-8f88-41163837f607.svg)
+
+
+<!--![Uploading CSS.svg…]()
+
 **JShwa0429/JShwa0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
